@@ -60,7 +60,10 @@ java-data-structures/
 
 ## 링크
 - [RESOURCES.md](RESOURCES.md): 문제 풀이 사이트 / 시각화 도구 / 한글 깨짐 해결법
+- [PLAN_day1-3.md](PLAN_day1-3.md): Day 1~3 압축 일정 (밀렸을 때 몰아서 하는 버전)
 - [day01_basics/note.md](day01_basics/note.md): Day 1 (Kotlin → Java 치트시트, 시간복잡도)
+- [day02_list_hash/note.md](day02_list_hash/note.md): Day 2 (List/HashMap/HashSet, 제네릭)
+- [day03_stack_queue/note.md](day03_stack_queue/note.md): Day 3 (Stack/Queue/Deque)
 
 ## 메모
 - [배열_개념정리.txt](배열_개념정리.txt): 초기에 정리한 C 기반 배열 노트 (Java/Kotlin 비교 포함)
